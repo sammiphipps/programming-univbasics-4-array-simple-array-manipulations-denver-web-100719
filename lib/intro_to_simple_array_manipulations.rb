@@ -1,4 +1,4 @@
-def using_push
+def using_push(array, element)
 end 
 
 def using_unshift
