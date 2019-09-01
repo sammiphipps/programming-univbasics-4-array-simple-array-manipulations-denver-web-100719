@@ -4,4 +4,4 @@ end
 def using_unshift(array, element)
 end 
 
-def 
+def using_pop
