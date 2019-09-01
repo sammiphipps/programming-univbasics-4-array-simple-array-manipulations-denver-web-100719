@@ -25,4 +25,7 @@ end
 def using_uniq(array)
 end 
 
-def using_flatten(arrayone, array)
+def using_flatten(array)
+end 
+
+def 
